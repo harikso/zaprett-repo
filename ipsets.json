@@ -54,5 +54,13 @@
     "hash": "e64823475402b86935abc8dbe88e8973a373e1b3779faeeefbc2eb01c9693533",
     "type": "ipset",
     "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/ipsets/include/ipset-whatsapp.txt"
+  },
+  {
+    "name": "ipset-dora.txt",
+    "author": "не указано",
+    "description": "не указано",
+    "hash": "37e9043f9a683582c6116d90fc700536dddef6c4f2702a2a20aeb77a4a26b03a",
+    "type": "include",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/ipsets/include/ipset-dora.txt"
   }
 ]

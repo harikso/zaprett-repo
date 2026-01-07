@@ -62,5 +62,13 @@
     "hash": "37e9043f9a683582c6116d90fc700536dddef6c4f2702a2a20aeb77a4a26b03a",
     "type": "include",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/ipsets/include/ipset-dora.txt"
+  },
+  {
+    "name": "ipset-exclude-dora.txt",
+    "author": "не указано",
+    "description": "не указано",
+    "hash": "cd80b3b641bc1c3c89fa77f4da6d181d3c5d76f05153dcd69815c1c39cc8ce7c",
+    "type": "list_exclude",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/ipsets/exclude/ipset-exclude-dora.txt"
   }
 ]

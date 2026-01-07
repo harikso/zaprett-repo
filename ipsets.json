@@ -54,13 +54,5 @@
     "hash": "e64823475402b86935abc8dbe88e8973a373e1b3779faeeefbc2eb01c9693533",
     "type": "ipset",
     "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/ipsets/include/ipset-whatsapp.txt"
-  },
-  {
-    "name": "ipset-sosal.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "e013688c444eebf316d1e3b90d07adb13a8d1f825a7d5f3e56bf68a2c7d5dcb1",
-    "type": "include",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/ipsets/include/ipset-sosal.txt"
   }
 ]

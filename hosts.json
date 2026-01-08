@@ -142,5 +142,13 @@
     "hash": "fd778c29b60ca43d6f2c07745cb37ab514c846cfa9ead3d5a0f5015187b3848c",
     "type": "list",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-roblox.txt"
+  },
+  {
+    "name": "list-test.txt",
+    "author": "не указано",
+    "description": "не указано",
+    "hash": "60ecc414d303414aacf9674c491e5a72353a00ec5a77f2cdcf6b083dd5b91226",
+    "type": "include",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-test.txt"
   }
 ]
